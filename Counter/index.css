@@ -1,0 +1,19 @@
+body{
+   text-align: center;
+}
+
+button{
+    background-color: aqua;
+    height: 40px;
+    width: 60px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+h1{
+   color: brown;
+}
+
+.input1{
+    margin-top: 20px;
+}
